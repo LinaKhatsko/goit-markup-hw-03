@@ -205,10 +205,10 @@ p, h1, h2, h3, h4, h5, h6 {
 .team-list-item {
     background-color: #FFFFFF;
     flex-basis: flex-basis: calc((100% - 3*24px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-item-wrap {
-        border-radius: 0 0 4px 4px;
         padding: 32px 0px;
 }
 .team-subtitle {
